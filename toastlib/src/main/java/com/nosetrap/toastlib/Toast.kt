@@ -1,4 +1,4 @@
-package com.nosetrap.applib.toast
+package com.nosetrap.toastlib
 
 import android.content.Context
 import android.widget.Toast

@@ -1,7 +1,6 @@
-package com.nosetrap.applib.toast
+package com.nosetrap.toastlib
 
 import android.content.Context
-import androidx.annotation.StringRes
 
 class ShortToast private constructor() {
     companion object {
